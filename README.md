@@ -1,2 +1,2 @@
 # Landing_Page
-Landing page using html,css
+Landing Page of a e-bookstore using HTML and CSS
